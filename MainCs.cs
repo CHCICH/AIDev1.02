@@ -59,7 +59,7 @@ class Program
             {
                 Console.WriteLine("Oh no! An exception occurred trying to do the math.\n - Details: " + e.Message);
             }
-
+// make sure to write this for Firendly linespacing
             Console.WriteLine("------------------------\n");
 
             // Wait for the user to respond before closing.
